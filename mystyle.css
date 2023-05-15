@@ -1,0 +1,11 @@
+* {
+    background-color: black;
+}
+p {
+    color: white;
+}
+ol {
+    padding: 10px;
+    padding-left: 25px;
+    border: 1px solid white;
+}
